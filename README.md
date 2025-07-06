@@ -1,6 +1,6 @@
 <!-- Centered Banner Image -->
 <div align="center">
-  <img src="https://i.pinimg.com/736x/32/3e/65/323e65b65b62ed9527345a5698118018.jpg" alt="banner" height="120"/>
+  <img src="https://i.pinimg.com/736x/32/3e/65/323e65b65b62ed9527345a5698118018.jpg" alt="banner" height="100"/>
 </div>
 
 <br/>
@@ -36,7 +36,9 @@
 </p>
 
 <h3>🛠 Languages & Tools</h3>
-<p align="left">
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="40" alt="Julia"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
@@ -45,7 +47,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-</p>
+
+</div>
+
 
 <h3>🔥 GitHub Stats</h3>
 <div align="center">
