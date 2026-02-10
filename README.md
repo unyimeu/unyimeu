@@ -29,7 +29,7 @@
 
 <h3>👩‍💻 About Me</h3>
 <p>
-  🎓 Sophomore at MIT (Class of 2027)<br/>
+  🎓 Junior at MIT (Class of 2027)<br/>
   🔭 Studying Electrical Engineering and Computer Science (EECS)<br/>
   🤖 Focused on AI and automation tools<br/>
   🍥 In my free time, I enjoy anime
